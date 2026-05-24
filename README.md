@@ -17,7 +17,6 @@
 - 🌱 Exploring the intersection of:
   - Reinforcement Learning (RL)
   - AI Agents & Autonomous Systems
-  - Large Language Models (LLMs)
   - Computer Vision & Multimodal Learning
 
 - 🧠 Interested in building intelligent systems that can:

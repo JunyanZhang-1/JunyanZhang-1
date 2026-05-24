@@ -19,11 +19,6 @@
   - AI Agents & Autonomous Systems
   - Computer Vision & Multimodal Learning
 
-- 🧠 Interested in building intelligent systems that can:
-  - perceive environments
-  - reason and plan
-  - make decisions autonomously
-
 - 🔭 Currently learning:
   - Transformer architectures
   - RL algorithms

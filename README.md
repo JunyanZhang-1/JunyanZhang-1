@@ -6,7 +6,7 @@
 
 🎓 Undergraduate Student at **Sichuan University (SCU)**  
 📡 Major in **Communication Engineering**  
-🤖 Currently focusing on **Reinforcement Learning (RL), Agents, and AI Systems**
+🤖 Currently focusing on **World Model And Embody AI**
 
 </div>
 
@@ -17,7 +17,7 @@
 - 🌱 Exploring the intersection of:
   - Reinforcement Learning (RL)
   - AI Agents & Autonomous Systems
-  - Computer Vision & Multimodal Learning
+  - World Model
 
 - 🔭 Currently learning:
   - Transformer architectures

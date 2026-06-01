@@ -16,7 +16,7 @@
 
 - 🌱 Exploring the intersection of:
   - Reinforcement Learning (RL)
-  - AI Agents & Autonomous Systems
+  - AI Agents
   - World Model
 
 - 🔭 Currently learning:
@@ -48,7 +48,7 @@ As a student developer, I hope to:
 `PyTorch` `NumPy` `Transformers`
 
 #### Interests
-`Reinforcement Learning` `AI Agents` `LLMs` `Computer Vision` `World Models`
+`World Models` `Computer Vision` `Reinforcement Learning` `AI Agents` `LLMs` 
 
 ---
 
@@ -57,14 +57,14 @@ As a student developer, I hope to:
 - 📖 Build strong foundations in deep learning and RL
 - 🧪 Reproduce classic AI papers and projects
 - 🚀 Participate in open-source and research projects
-- 🌍 Explore the future of autonomous AI systems
+- 🌍 Explore the future of World Model
 
 ---
 
 ### 📫 Connect With Me
 
 - GitHub: [[your-github-link](https://github.com/JunyanZhang-1)]
-- wechat: [zhangjunyan0123]
+- wechat: [ID:zhangjunyan0123]
 
 ---
 

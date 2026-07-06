@@ -18,7 +18,6 @@
   - Transformer architectures
   - DL algorithms
   - Computer vision
-  - World Models
   - Deep Learning fundamentals
 
 ---

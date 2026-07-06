@@ -6,7 +6,7 @@
 
 🎓 Undergraduate Student at **Sichuan University (SCU)**  
 📡 Major in **Communication Engineering**  
-🤖 Currently focusing on **World Model And Embody AI**
+🤖 Currently focusing on **Computer Vision and artificial intelligence**
 
 </div>
 
@@ -14,15 +14,10 @@
 
 ### 🚀 About Me
 
-- 🌱 Exploring the intersection of:
-  - Reinforcement Learning (RL)
-  - AI Agents
-  - World Model
-
 - 🔭 Currently learning:
   - Transformer architectures
-  - RL algorithms
-  - Agent frameworks
+  - DL algorithms
+  - Computer vision
   - World Models
   - Deep Learning fundamentals
 
@@ -48,16 +43,16 @@ As a student developer, I hope to:
 `PyTorch` `NumPy` `Transformers`
 
 #### Interests
-`World Models` `Computer Vision` `Reinforcement Learning` `AI Agents` `LLMs` 
+ `Computer Vision` `Deep Learning` `Video generation` `World Models`  
 
 ---
 
 ### 📈 Current Goals
 
-- 📖 Build strong foundations in deep learning and RL
+- 📖 Build strong foundations in deep learning
 - 🧪 Reproduce classic AI papers and projects
 - 🚀 Participate in open-source and research projects
-- 🌍 Explore the future of World Model
+- 🌍 Explore the future of Artificial Intelligence
 
 ---
 

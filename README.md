@@ -1,59 +1,53 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8c0ff,50:8ec5fc,100:e0c3fc&height=200&section=header&text=Junyan%20Zhang&fontSize=48&fontColor=4a5568&animation=fadeIn" alt="header"/>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&pause=2500&color=8B9DC3&center=true&vCenter=true&width=420&lines=Undergraduate+at+Sichuan+University;Exploring+Computer+Vision+%26+Multimodal+AI;Building+gentle+and+efficient+systems" alt="Typing SVG"/>
-  </p>
+<img src="https://raw.githubusercontent.com/JunyanZhang-1/JunyanZhang-1/main/assets/name.png" width="480" alt="Junyan Zhang"/>
 
 </div>
 
----
+### 🎓 About
 
-### 🎓 About Me
+Undergraduate at **Sichuan University(SCU)**. Exploring computer vision.
 
-I'm an undergraduate student at **Sichuan University**, exploring **Computer Vision** and multimodal intelligent systems.
-
----
 
 ### 📁 Projects
 
-<p align="center">
-  <a href="https://github.com/JunyanZhang-1/video-stream-editing-proposal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JunyanZhang-1&repo=video-stream-editing-proposal&theme=graywhite&hide_border=true&bg_color=f8f9fa&title_color=4a5568&text_color=718096&icon_color=a8c0ff" alt="Project Card"/>
-  </a>
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="left" style="background: #f8f9fa; border-radius: 10px; padding: 18px 24px; border: 1px solid #e5e7eb; min-width: 400px;">
+      <a href="https://github.com/JunyanZhang-1/video-stream-editing-proposal" style="text-decoration: none; color: inherit;">
+        <div style="font-size: 15px; font-weight: 600; color: #374151; margin-bottom: 4px;">🎬 video-stream-editing-proposal</div>
+        <div style="font-size: 12px; color: #6b7280; line-height: 1.5;">Real-time text-guided video stream editing via multimodal diffusion</div>
+        <div style="margin-top: 10px;">
+          <span style="background: #dbeafe; color: #1e40af; padding: 2px 10px; border-radius: 12px; font-size: 10px;">Python</span>
+          <span style="background: #dcfce7; color: #166534; padding: 2px 10px; border-radius: 12px; font-size: 10px;">🟢 Active</span>
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunyanZhang-1&show_icons=true&theme=graywhite&hide_border=true&bg_color=f8f9fa&title_color=4a5568&text_color=718096&icon_color=a8c0ff" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunyanZhang-1&layout=compact&theme=graywhite&hide_border=true&bg_color=f8f9fa&title_color=4a5568&text_color=718096&icon_color=a8c0ff" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 📫 Let's Connect
+### 📫 Contact
 
 <p align="center">
   <a href="https://github.com/JunyanZhang-1">
-    <img src="https://img.shields.io/badge/GitHub-f8f9fa?style=flat-square&logo=github&logoColor=4a5568" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-4a5568?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:1153531054@qq.com">
-    <img src="https://img.shields.io/badge/Email-f8f9fa?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<div align="center">
-
-*Open to collaborations on computer vision and multimodal AI. Feel free to reach out!* 🌿
-
-</div>
+<p align="center" style="color: #718096; font-size: 13px;">
+  Open to collaborations and research discussions. Feel free to reach out.
+</p>
 
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,50:8ec5fc,100:a8c0ff&height=120&section=footer" alt="footer"/>
+
+*The horizon is endless when you keep walking.*  
+**行则将至，道阻且长。**
+
 </div>

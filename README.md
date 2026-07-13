@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JunyanZhang-1/JunyanZhang-1/main/assets/name.png" width="480" alt="Junyan Zhang"/>
+<img src="https://raw.githubusercontent.com/JunyanZhang-1/JunyanZhang-1/main/assets/name.png" width="360" alt="Junyan Zhang"/>
 
 </div>
 

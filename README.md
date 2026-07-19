@@ -6,7 +6,7 @@
 
 ### 🎓 About
 
-Undergraduate at **Sichuan University(SCU)**. Exploring computer vision.
+Undergraduate at **Sichuan University(SCU)**.
 
 
 ### 📁 Projects

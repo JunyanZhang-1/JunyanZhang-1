@@ -21,7 +21,7 @@ Undergraduate at **Sichuan University(SCU)•Exploring Computer Vision**.
   <a href="https://github.com/JunyanZhang-1">
     <img src="https://img.shields.io/badge/GitHub-4a5568?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:1153531054@qq.com">
+  <a href="mailto:junyanzhang.jy@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

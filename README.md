@@ -22,8 +22,7 @@
 <p align="left">
 <a href="https://github.com/JunyanZhang-1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JunyanZhang-1" height="30" width="40" /></a>
 <a href="https://github.com/JunyanZhang-1/JunyanZhang-1/blob/main/assets/wechat-qr.png" target="blank">
-  <img align="center" src="https://cdn.simpleicons.org/wechat/07C160" alt="WeChat" height="30" width="40" />
-</a>
+  <img align="center" src="https://cdn.simpleicons.org/wechat/07C160" alt="WeChat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/俊彦-张-8a4730424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="俊彦-张-8a4730424" height="30" width="40" /></a>
 <a href="https://instagram.com/jeremy_jy14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeremy_jy14" height="30" width="40" /></a>
 <a href="https://twitter.com/Zion_JY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Zion_JY" height="30" width="40" /></a>

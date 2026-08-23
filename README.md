@@ -1,4 +1,4 @@
-# Hi 👋, I'm Junyan Zhang.
+# Hi 👋, I'm Junyan Zhang
 
 ### Full-stack dreamer, part-time bug creator, full-time learner🤗
 

@@ -1,8 +1,7 @@
 # Hi 👋, I'm Junyan Zhang
 
-### Full-stack dreamer, part-time bug creator, full-time learner🤗
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JunyanZhang-1" alt="JunyanZhang-1" /></a> </p>
+### Full-stack dreamer, part-time bug creator, full-time learner🤗
 
 - 🔭 I'm currently working on **Computer Vision & Generative AI 🎨👀(Where  vision meets imagination 🔮)**
 

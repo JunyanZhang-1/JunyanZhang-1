@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **junyanzhang.jy@gmail.com**
 
-- ⚡ Fun fact **I look like I have everything under control, but internally I'm rehearsing what to say when the waiter says "enjoy your meal"😳.**
+- ⚡ Fun fact **I look like I have everything under control, but internally I'm rehearsing what to say when the waiter says "enjoy your meal"😳.And I am interested in sports, such as running and swimming.😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

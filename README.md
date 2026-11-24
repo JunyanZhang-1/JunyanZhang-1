@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Computer Vision & Generative AI 🎨👀(Where  vision meets imagination 🔮)**
 
-- 🌱 I'm currently learning **to expand my DL and CV foundations into generative modeling( I'm working through diffusion models from the ground up). Still early, but closing the gap between understanding and doing👨‍💻.**
+- 🌱 I'm currently learning **to expand my DL and CV foundations into generative modeling, and now I am interested in reinforcement learning and generative AI technologies.👨‍💻.**
 
 - 👯 I'm looking to collaborate on **Open-source contributions in the PyTorch/Hugging Face ecosystem and Anything visual, generative, and slightly ambitious 🚀**
 
